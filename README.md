@@ -1,4 +1,4 @@
 # JPo
-![Screenshot](Captura de tela de 2018-04-23 15-21-20.png)
+![Screenshot](pic.png)
 
 Jukenpo para linha de comando feito em Java
