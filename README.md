@@ -1,7 +1,7 @@
 # JPo
-JPo é um simples jogo de Jukenpo para linha de comando feito em Java
+JPo (JavaPo) é um simples jogo de Jukenpo feito em Java e Swing;
 
-## Prints
+## Instalação
 
-![Screenshot](pic.png)
-
+Certifique-se primeiro de ter o Java instalado em seu computador (https://www.java.com/pt_BR/download/)\
+Para rodar o jogo, va em "Releases" e baixe o JPo.jar executavel da aplicação e execute o mesmo
